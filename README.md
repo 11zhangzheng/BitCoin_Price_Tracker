@@ -1,0 +1,2 @@
+# BitCoin_Price_Tracker
+使用AutoGen框架搭建的多智能体协作的软件开发团队，实现了一个比特币价格实时追踪的功能。
