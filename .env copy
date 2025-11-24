@@ -1,0 +1,5 @@
+LLM_MODEL_ID = "gpt-4o"
+LLM_API_KEY="sk-e4ca604e8c6849d0b41ee4590ce48f94"
+LLM_BASE_URL="https://api.openai.com/v1"
+LLM_TIMEOUT=60
+DEEPSEEK_API_KEY="sk-e4ca604e8c6849d0b41ee4590ce48f94"
