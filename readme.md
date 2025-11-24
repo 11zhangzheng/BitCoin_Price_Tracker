@@ -6,7 +6,7 @@
 pip install streamlit requests
 
 # 运行应用
-streamlit run output.py
+streamlit run output.py 
 
 
 ```
